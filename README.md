@@ -76,7 +76,7 @@ src/
 
 ### 1. Criar uma oferta de emprego
 
-**Endpoint:** POST `/api/joboffers`
+**Endpoint:** POST `/job-offers`
 
 **Requisição:**
 
